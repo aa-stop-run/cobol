@@ -1,2 +1,2 @@
-# cobol
+# Cobol
 Cobol projects
