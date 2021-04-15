@@ -1,5 +1,4 @@
-# Email verification module - COBOL
-# Email validation module - COBOL
+# Email verification module - Email validation module - COBOL
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
